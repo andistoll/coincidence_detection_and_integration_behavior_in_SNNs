@@ -1,0 +1,8 @@
+job.sh.*
+models*
+tf_spiking/__pycache__
+training/__pycache__
+training/cifar-10-batches-py
+training/emnist
+training/fashion_mnist
+training/mnist.npz

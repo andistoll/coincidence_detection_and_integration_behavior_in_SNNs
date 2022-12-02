@@ -1,0 +1,11 @@
+h5py==3.7.0
+Keras==2.8.0
+Keras-Preprocessing==1.1.2
+matplotlib==3.5.2
+numpy==1.23.3
+pandas==1.5.0
+protobuf==3.19.4
+scipy==1.9.1
+sklearn
+tensorflow==2.8.0
+tensorflow-addons==0.16.1
