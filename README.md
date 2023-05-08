@@ -1,3 +1,7 @@
+## Coincidence Detection and Integration Behavior in Spiking Neural Networks
+
+This repository contains the code generated during the study "Coincidence Detection and Integration Behavior in Spiking Neural Networks". It is currently under review.
+
 # Analysis
 
 This folder contains scripts with resource-intensive computations. The results will be stored in the "results" folder and will be used by the scripts located in the "Plots" folder.
